@@ -79,7 +79,7 @@ The total zones in video had an average occupancy of 65% with a median occupancy
 
 
 
-![heatmaps](https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/b24c5102-943a-4545-bad5-1d4a494b69f6)
+
 
 
 
