@@ -44,6 +44,9 @@ zones = [
     }
 ]
 ```
+![testImage](https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/06ad45ba-c455-4ec6-a284-bb89933283ff)
+
+
 &emsp;&emsp;After defining the zones in video,we will use the following features of SuperVision : 
   - *ByteTrack*: To track the location of our vehicles, so we can assess how long they are parked
   - *InferenceSlicer*: A helper utility to run SAHI on our model
@@ -76,7 +79,7 @@ The total zones in video had an average occupancy of 65% with a median occupancy
 
 
 
-https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/b24c5102-943a-4545-bad5-1d4a494b69f6
+![heatmaps](https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/b24c5102-943a-4545-bad5-1d4a494b69f6)
 
 
 
