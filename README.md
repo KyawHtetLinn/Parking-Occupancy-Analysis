@@ -51,6 +51,7 @@ zones = [
   - *HeatMapAnnotator*: To generate heatmaps so we can identify our busiest areas
   - *PolygonZone*, *PolygonZoneAnnotator*: To help count and identify vehicles in our respective zones and the annotator to help visualize those zones.
 <br /><br />
+
 ![testImage](https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/9ded4b65-663f-4f16-82b6-61065e6e95fa)
 
 > YoloV7 training , we can see [the training notebook]()<br/>
@@ -68,8 +69,9 @@ The total zones in video had an average occupancy of 65% with a median occupancy
 ```
 ## Graph 
 
-https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/521f0bcd-c06b-4404-8d4b-d59f249f44c0
 
+
+![graphs](https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/8e4b3485-f7bb-4b92-bb34-62b0e0cc5276)
 
 
 ## Resources
