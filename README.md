@@ -3,7 +3,7 @@
 
 ## Overview
 
-&emsp;&emsp;This project utilizes YOLOv7 to analyze parking occupancy from youtube video footage. The objective is to automatically detect and count the number of occupied cars for each ploygon zone from video, providing valuable insights for parking management systems.
+&emsp;&emsp;This project utilizes YOLOv7 to analyze parking occupancy from youtube video footage. The objective is to automatically detect and count the number of occupied cars for each ploygon zone from video, providing valuable insights for parking management systems.<br/>
 &emsp;&emsp;Using occupancy analytics, you can identify peak hours and trends, allowing you to make informed plans and adjustments for future operations
 
 <hr/>
