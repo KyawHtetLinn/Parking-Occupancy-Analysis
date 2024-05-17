@@ -52,7 +52,7 @@ zones = [
   - *PolygonZone*, *PolygonZoneAnnotator*: To help count and identify vehicles in our respective zones and the annotator to help visualize those zones.
 <br /><br />
 
-![testImage](https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/9ded4b65-663f-4f16-82b6-61065e6e95fa)
+
 
 > YoloV7 training , we can see [the training notebook]()<br/>
 > Occupancy Analysis , we can see [the inference notebook]()
@@ -72,6 +72,13 @@ The total zones in video had an average occupancy of 65% with a median occupancy
 
 
 ![graphs](https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/8e4b3485-f7bb-4b92-bb34-62b0e0cc5276)
+
+
+
+
+https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/b24c5102-943a-4545-bad5-1d4a494b69f6
+
+
 
 
 ## Resources
