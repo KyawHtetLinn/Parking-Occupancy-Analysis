@@ -8,7 +8,8 @@
 
 <hr/>
 
-&emsp;At first,the youtube video is transformed into frames in order to be detected each frame.For detection the car in each zone,we will use the [Kaggle dataset](https://www.kaggle.com/datasets/braunge/aerial-view-car-detection-for-yolov5) and train with the yoloV7 model.<br />
+&emsp;At first,the youtube video is transformed into frames in order to be detected each frame.For detection the car in each zone,we will use the [Kaggle dataset](https://www.kaggle.com/datasets/braunge/aerial-view-car-detection-for-yolov5) and train with the yoloV7 model. 
+<br/>
 &emsp;For defining the zones, there is a Supervision’s [PolygonZone](https://supervision.roboflow.com/detection/tools/polygon_zone/?ref=blog.roboflow.com#polygonzone) feature, which we will use to detect the vehicles in each zone of the parking lot, requires a set of points in order to identify where the zone is located, which can be generated using [this online utility](https://supervision.roboflow.com/detection/tools/polygon_zone/?ref=blog.roboflow.com#polygonzone).
 
 
