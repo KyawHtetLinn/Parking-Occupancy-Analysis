@@ -60,7 +60,7 @@ zones = [
 > YoloV7 training , we can see [the training notebook]()<br/>
 > Occupancy Analysis , we can see [the inference notebook]()
 
-## Occupancy per zone and for all zones
+## Occupancy analysis per zone and for all zones
 ```
 Zone 1 had an average occupancy of 47% with a median occupancy of 47%.
 Zone 2 had an average occupancy of 69% with a median occupancy of 71%.
@@ -71,14 +71,10 @@ Zone 5 had an average occupancy of 48% with a median occupancy of 48%.
 The total zones in video had an average occupancy of 65% with a median occupancy of 65%.
 ```
 ## Graph 
-
+The graph show the total number of cars in each parking zone for each frames.
 
 
 ![graphs](https://github.com/KyawHtetLinn/Parking-Occupancy-Analysis/assets/70162137/8e4b3485-f7bb-4b92-bb34-62b0e0cc5276)
-
-
-
-
 
 
 
